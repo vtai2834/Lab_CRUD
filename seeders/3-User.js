@@ -10,7 +10,7 @@ module.exports = {
         firstName: "Enrico",
         lastName: "De Ferraris",
         mobile: "506-883-2766",
-        imagePath: "/img/blog/details/details-author.jpg",
+        imagePath: "/assets/img/avatars/0.jpeg",
         isAdmin: true,
       },
       {
@@ -19,7 +19,7 @@ module.exports = {
         firstName: "Lisle",
         lastName: "Carlick",
         mobile: "685-500-0168",
-        imagePath: "/img/blog/details/details-author.jpg",
+        imagePath: "/assets/img/avatars/1.png",
       },
       {
         username: "fochiltree2@nytimes.com",
@@ -27,7 +27,7 @@ module.exports = {
         firstName: "Frederich",
         lastName: "Ochiltree",
         mobile: "387-491-7478",
-        imagePath: "/img/blog/details/details-author.jpg",
+        imagePath: "/assets/img/avatars/5.png",
         isAdmin: true,
       },
       {
@@ -36,7 +36,7 @@ module.exports = {
         firstName: "Dorolisa",
         lastName: "Blasetti",
         mobile: "768-449-9990",
-        imagePath: "/img/blog/details/details-author.jpg",
+        imagePath: "/assets/img/avatars/6.png",
       },
       {
         username: "ryelland4@de.vu",
@@ -44,7 +44,7 @@ module.exports = {
         firstName: "Rosaleen",
         lastName: "Yelland",
         mobile: "658-130-3536",
-        imagePath: "/img/blog/details/details-author.jpg",
+        imagePath: "/assets/img/avatars/7.png",
       },
     ];
     items.forEach((item) => {
