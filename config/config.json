@@ -15,11 +15,7 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "postgres",
-    "password": "123456",
-    "database": "CRUD_exercise",
-    "host": "127.0.0.1",
-    "dialect": "postgres",
-    "port": 5432
+    "use_env_variable": "DATABASE_URL",
+    "dialect": "postgres"
   }
 }
